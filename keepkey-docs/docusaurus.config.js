@@ -42,19 +42,27 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sktbrd/keepkey-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sktbrd/keepkey-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
     ],
   ],
 
@@ -64,10 +72,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Keepkey Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
+          href: '/',
         },
         items: [
           {
@@ -84,6 +91,10 @@ const config = {
           },
           {
             type: 'localeDropdown',
+            position: 'right',
+          },
+          {
+            type: 'search',
             position: 'right',
           },
         ],
@@ -126,17 +137,20 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/keepkey',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `No Copyright 💀`,
       },
+      
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
+      
     }),
 };
 
