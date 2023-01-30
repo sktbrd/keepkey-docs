@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <img src="https://i.ibb.co/wg4XfhX/kk-announce.gif "></img>
+        <img src="https://i.ibb.co/jR8WcJM/kk.gif "></img>
         <br></br>
         <div className={styles.buttons}>
           
