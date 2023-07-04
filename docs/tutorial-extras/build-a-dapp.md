@@ -54,7 +54,7 @@ KeepKey sdk
 Now we need the application to load the users’ DASH balances on startup. To do this, we will import the KeepKey SDK. We will use the API call `getPubkeys` to generate an Xpub for DASH.
 
 We use the SDK to get the publicKey for Dash
-
+```js
       let path =
         {
           symbol: 'DASH',
@@ -67,6 +67,7 @@ We use the SDK to get the publicKey for Dash
       let responsePubkey = await sdk.system.info.getPublicKey(path)
       console.log("responsePubkey: ", responsePubkey)
       console.log("responsePubkey: ", responsePubkey.xpub)
+```
 Note that the path for DASH is 5. as found on https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
 And Finally we get the xpub for dash returned.
@@ -75,14 +76,18 @@ And Finally we get the xpub for dash returned.
 
 UI work, lets prep the application for balance and address
 we are using useState to set values from inside our onStart function for elements in the UI.
-
+```js
 const [address, setAddress] = useState('')
 const [balance, setBalance] = useState('0.000')
+```
 Next up, lets calculate the balance for DASH
+
 Now we getting the fun stuff. we need to figure out how much DASH a user has a balance on. To do this we going to import the pioneer-sdk
 
-yarn add @pioneer-platform/pioneer-client
+`yarn add @pioneer-platform/pioneer-client``
+
 first we import the Pioneer-sdk, and configure
+```js
 const configPioneer = {
 queryKey:'sdk:test-tutorial-medium',
 username:"dash-dapp",
@@ -90,6 +95,7 @@ spec:"https://pioneers.dev/spec/swagger.json"
 }
 let pioneer = new Client(configPioneer.spec,configPioneer)
 pioneer = await pioneer.init()
+```
 We are setting the queryKey, username and spec
 
 Pioneer API docs can be found here
@@ -97,13 +103,14 @@ Pioneer API docs can be found here
 Next we use the api client to query unspent inputs for an xpub.
 
 An xpub is a public key used in a hierarchical deterministic wallet system, and more information can be found in this blog post: https://www.swanbitcoin.com/whats-in-an-xpub/
-
+```js
       //get balance DASH
       let data = await pioneer.ListUnspent({network:'DASH',xpub:responsePubkey.xpub})
       data = data.data
       console.log("txData: ",data)
+```
 And finally we iterate over these inputs for calculate a balance
-
+```js
       let balance = 0
       for(let i = 0; i < data.length; i++){
         balance += parseInt(data[i].value)
@@ -111,6 +118,7 @@ And finally we iterate over these inputs for calculate a balance
       console.log("balance: ",balance)
       let balanceNative = balance
       setBalance(balanceNative)
+```
 (NOTE) You can checkout “checkpoint-2” to continue the tutorial from this point
 
 Now let’s see it all work!
@@ -127,18 +135,19 @@ keepkey.com
 And we see our balance!
 
 Now lets generate a fresh address for the user to deposit DASH to.
-
+```js
       //get new address
       let newAddyIndex = await pioneer.GetChangeAddress({network:'DASH',xpub:responsePubkey.xpub})
       newAddyIndex = newAddyIndex.data.changeIndex
       newAddyIndex = newAddyIndex + 1
       console.log("newAddyIndex: ",newAddyIndex)
+```
 Pioneer will use the Xpub to scan the blockchain and detect any past transactions associated with the wallet. It will then create a list of all used and unused addresses associated with the wallet and determine the next unused address index.
 
 BIP44 paths are hierarchical deterministic paths used to generate public and private keys for cryptocurrency wallets. These paths are constructed using a 4-level tree structure, consisting of the following levels: purpose (m), coin type (44'/0'/0'/0), account (0), and change (0). BIP44 paths are used to ensure that the same wallet can be used for multiple coins and accounts, while keeping funds secure and organized.
 
 and send it back to KeepKey-desktop’s api for generating the address
-
+```js
       let addressInfo = {
         addressNList: [0x80000000 + 44, 0x80000000 + 5, 0x80000000 + 0, 0x80000000 + newAddyIndex],
         coin: 'Dash',
@@ -151,6 +160,7 @@ and send it back to KeepKey-desktop’s api for generating the address
         script_type:addressInfo.scriptType,
         coin:addressInfo.coin
       })
+```
 The 0x80000000 is a hexadecimal notation that indicates the beginning of the hard coded path for the Dash network. This path is used to differentiate it from other networks when sending or receiving funds. The 5 indicates that this is a Dash network address. This is used to identify the currency being used and ensure that the funds are being sent to the correct network.
 
 And now we have a fresh address for the user to deposit too!
@@ -181,7 +191,7 @@ we add these values to our react state
 const [amount, setAmount] = useState('0.00000000')
 const [toAddress, setToAddress] = useState('')
 And we add the following into our modal itself
-
+```js
             <div>
               amount: <input type="text" name="amount" value={amount}/>
             </div>
@@ -189,13 +199,15 @@ And we add the following into our modal itself
             <div>
               address: <input type="text" name="address" value={toAddress} placeholder="XwNbd46qdmbVWLdXievBhBMW7JYy8WiE7n"/>
             </div>
+```
 And after we intake the values from the input fields we call a function onSend()
-
+```js
             <Button colorScheme='green' mr={3} onClick={onSend}>
               Send
             </Button>
+```
 and we mock out this onSend with just a log for now
-
+```js
 let onSend = async function(){
 try{
 //
@@ -204,7 +216,7 @@ console.log("Sending Dash!")
 console.error(e)
 }
 }
-
+```
 7. Ok Not lets actually send some DASH!
 
 To send dash we need to build a transaction. This is generally the most complication part of working with crypto. its important to understand the dangers here. When working with a UXTO transaction we are calulating a fee. this fee is generally represented by
@@ -221,12 +233,13 @@ So first we need the inputs that were queried for the balance. so we are going t
 
 const [inputs, setInputs] = useState([])
 and set them on startup
-
+```js
       let data = await pioneer.ListUnspent({network:'DASH',xpub:responsePubkey.xpub})
       data = data.data
       setInputs(data)
+```
 Now lets create our output object
-
+```js
       //balance check
       let amountOut = parseInt(amount * 100000000)
       if(amountOut >  balance) throw new Error("Insufficient funds!") 
@@ -242,6 +255,7 @@ Now lets create our output object
           })
         }
       }
+```
 Now we have an array of inputs with the transaction ids and vout.
 
 (NOTE) You can checkout “checkpoint-8” to continue the tutorial from this point
