@@ -4,8 +4,9 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
+import { MendableFloatingButton } from "@mendable/search"
 import styles from './index.module.css';
+import { MendableSearchBar } from '@mendable/search';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,12 +17,8 @@ function HomepageHeader() {
         <img src="https://i.ibb.co/jR8WcJM/kk.gif "></img>
         <br></br>
         <div className={styles.buttons}>
-          
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Create KeepKey Dapps - 5min ⏱️
-          </Link>
+          <h3>AI Helper</h3>
+          <MendableSearchBar placeholder='intelligent support' anon_key='eb0c22fc-5f60-486c-b0d5-ca6d11c7558a' />
         </div>
       </div>
     </header>

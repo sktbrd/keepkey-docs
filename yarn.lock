@@ -1758,6 +1758,13 @@
   resolved "https://registry.npmjs.org/@mdx-js/util/-/util-1.6.22.tgz"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
+"@mendable/search@^0.0.112":
+  version "0.0.112"
+  resolved "https://registry.yarnpkg.com/@mendable/search/-/search-0.0.112.tgz#d212eab78715d25c8cafbbb4c4adc122c6e711ca"
+  integrity sha512-rbNWKtFeH/K9Se9Uf29qdWMsrGF7DXqkffJkY4FKRc6YOY/3gh2Sj/m/C+iVd7olSQKKoAS4feeMvn0S4dnLiQ==
+  dependencies:
+    posthog-js "^1.45.1"
+
 "@node-rs/jieba-android-arm-eabi@1.6.2":
   version "1.6.2"
   resolved "https://registry.yarnpkg.com/@node-rs/jieba-android-arm-eabi/-/jieba-android-arm-eabi-1.6.2.tgz#e34836593a7d5144fc625c924d6957d888ac298e"
@@ -3919,6 +3926,11 @@ feed@^4.2.2:
   dependencies:
     xml-js "^1.6.11"
 
+fflate@^0.4.1:
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/fflate/-/fflate-0.4.8.tgz#f90b82aefbd8ac174213abb338bd7ef848f0f5ae"
+  integrity sha512-FJqqoDBR00Mdj9ppamLa/Y7vxm+PRmNWA67N846RvsoYVMKB4q3y/de5PA7gUmRMYK/8CMz2GDZQmCRN1wBcWA==
+
 file-loader@^6.2.0:
   version "6.2.0"
   resolved "https://registry.npmjs.org/file-loader/-/file-loader-6.2.0.tgz"
@@ -5943,6 +5955,13 @@ postcss@^8.3.11, postcss@^8.4.14, postcss@^8.4.17, postcss@^8.4.19:
     nanoid "^3.3.4"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
+
+posthog-js@^1.45.1:
+  version "1.68.5"
+  resolved "https://registry.yarnpkg.com/posthog-js/-/posthog-js-1.68.5.tgz#2cca51de69450b3bdeb6709178d8272c71e10df3"
+  integrity sha512-EqQuIX0k564T2fhmzQK2Gcb8s/XRhHTpk6JOeGtJV7lpMI8Hffe+gGjGHcqIc4RoOg3LjAGYNHj6XgN+QPggLg==
+  dependencies:
+    fflate "^0.4.1"
 
 prepend-http@^2.0.0:
   version "2.0.0"
