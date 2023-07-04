@@ -1,4 +1,4 @@
-# Introducing the new KeepKey Client
+# Introducing the new KeepKey Desktop
 
 Follow the guide below to get started using your KeepKey.
 
