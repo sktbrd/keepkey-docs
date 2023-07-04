@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sktbrd/keepkey-docs/tree/main/',
+            'https://github.com/BitHighlander/keepkey-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sktbrd/keepkey-docs/tree/main/',
+            'https://github.com/BitHighlander/keepkey-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -87,7 +87,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/keepkey',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,16 +117,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/KeepKeyDevs',
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/stfRnW3Jys',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/keepkeydevs',
+                label: 'Reddit',
+                href: 'https://www.reddit.com/r/keepkeydevs',
               },
             ],
           },
