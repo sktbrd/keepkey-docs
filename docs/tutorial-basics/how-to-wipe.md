@@ -1,21 +1,25 @@
-Handling forgoten PIN’s
+---
+title: How to Wipe
+---
 
-I you forgot your PIN dont fret! you can always wipe your Keepkey and restore from seed and set a new pin.
+## Handling Forgotten PINs
 
-On startup
+If you've forgotten your PIN, don't fret! You can always recover your Keepkey by following these steps:
 
+1. Wipe your Keepkey device by selecting the "Forgot your PIN" option during startup.
 
-Click “Forgot your pin”
+2. After wiping your device, proceed with the device recovery process.
 
-Next wipe your device
+   - If the device recovery feature is not working in KeepKey Desktop, you can use our legacy updater app.
 
+     [KeepKey Updater](https://github.com/keepkey/keepkey-updater)
 
-After wipeing your device you can prodede to device recovery.
+     The KeepKey Updater app provides a similar message for forgotten PINs during startup.
 
-(if for any reason this feature is not working in KeepKey Desktop you can also use our legacy updater app)
+By wiping your device and going through the recovery process, you will be able to set a new PIN and regain access to your KeepKey.
 
-Releases · keepkey/keepkey-updater
-Contribute to keepkey/keepkey-updater development by creating an account on GitHub.
-github.com
+Remember to keep your recovery seed in a secure place to ensure that you can always recover your KeepKey device if necessary.
 
-It has a similar message for forgot pin on startup.
+:::warning Note
+It's important to exercise caution and follow the official instructions provided by KeepKey to ensure the security and proper functioning of your device.
+:::
