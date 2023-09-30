@@ -1,4 +1,5 @@
-## If KeepKey is your first introduction to cryptocurrency or hardware wallets, check out illithics COMPLETE, step by step, KeepKey Setup Guide
+## If KeepKey is your first introduction to cryptocurrency or hardware wallets, check out:
+## illithics COMPLETE, Step by Step, KeepKey Setup Guide
 
 First off, don’t worry, you’re in safe hands. I have dabbled in cryptocurrency on a surface level for many years now, but it was only when I joined KeepKey last year that I began to dig deeper. I have spent a lot of time working with and learning from clients whose first experience setting up a wallet was with their KeepKey. Sometimes these clients have had zero experience dealing with cryptocurrency at all. It is my hope that, with access to some of the best security developers in the industry, along with my own experience with new clients, I can create the most descriptive Getting Started guide to date. The following article will be a step by step guide through the setup process, as well as explain some of the key concepts in Hardware Wallets. If successful it will provide anyone with all the information they need to set up their KeepKey and understand why they did it. 
 
@@ -120,7 +121,8 @@ So now we’ve entered our pin a second time, lets click save pin and move on.
 We see that the KeepKey device is now telling us about the “Recovery Seed Backup”
 
 
-Image 10
+![10 backup](https://github.com/BitHighlander/keepkey-docs/assets/47842709/b539c309-cb13-4ae0-89c9-205445dd5f86)
+
 
 
 Inside of the box your KeepKey was shipped in is a green card, the size of a business card that is labelled ‘Recovery Sentence.”
