@@ -1,5 +1,5 @@
-## If KeepKey is your first introduction to cryptocurrency or hardware wallets, check out:
-## COMPLETE, Step by Step, KeepKey Setup Guide
+## If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...
+**Here is the COMPLETE, Step by Step, KeepKey Setup Guide**
 
 First off, don’t worry, you’re in safe hands. I have dabbled in cryptocurrency on a surface level for many years now, but it was only when I joined KeepKey last year that I began to dig deeper. I have spent a lot of time working with and learning from clients whose first experience setting up a wallet was with their KeepKey. Sometimes these clients have had zero experience dealing with cryptocurrency at all. It is my hope that, with access to some of the best security developers in the industry, along with my own experience with new clients, I can create the most descriptive Getting Started guide to date. The following article will be a step by step guide through the setup process, as well as explain some of the key concepts in Hardware Wallets. If successful it will provide anyone with all the information they need to set up their KeepKey and understand why they did it. 
 
@@ -7,7 +7,10 @@ First off, don’t worry, you’re in safe hands. I have dabbled in cryptocurren
 To get started, after you’ve purchased your KeepKey, plug in the device using the supplied cables to your Mac, Windows, or Linux computer. Next head on over to www.KeepKey.com/Get-Started. 
  
 
- On this page, watch the YouTube “Get Started Video” to watch with the process of setting up your device. 
+ On this page, watch the YouTube “Get Started Video” to watch with the process of setting up your device, or watch below.
+
+**KeepKey Official Youtube:**
+https://youtu.be/js6VMMvz9aQ
 
 
 Next we’ll take a look at your KeepKey device itself. On the bottom there is a micro USB Port to be used with the cable provided. One face of the device is a slick solid piece of metal, and the other side is a screen made from tamper resistant hardened plastic. Let’s look at the plastic side. This screen will display important information while you are setting up the device, as well as when you are buying, moving, or interacting with your crypto. This is just a normal screen not a touch screen but notice as well, there is a single button on top of the device. This button is used during the updating process as well as when confirming things like your passphrase or making transactions. Think of this button as your YES man.
@@ -76,8 +79,9 @@ We’ve come so far, let's take a breath. The tech stuff is out of the way and y
 
 
 You are about to create a wallet which is a digital tool, much like a virtual purse or wallet, used to store and manage cryptocurrencies. It holds private keys, which are secret codes required to access and control your digital assets. Your KeepKey device stores these keys allowing only you to access them. This is the security advantage over keeping your crypto online. No matter what happens, as long as you have your wallet, you will never lose access to your crypto.
-Here is a short and sweet description of wallets from Coinbase.com: https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet
-And here is a deeper dive on Crypto.com: https://crypto.com/university/crypto-wallets
+
+**Here is a short description of wallets from Coinbase.com: https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet**
+**And a deeper dive on Crypto.com: https://crypto.com/university/crypto-wallets**
 
 
 Lets get rolling. Select “Create a New Wallet”
@@ -104,7 +108,7 @@ Image 8
 So we have these numbers in specific locations, like on a keyboard number pad but jumbled up. We are going to use this to choose a pin, like the one you use for a debit card, that we will enter every time we use the KeepKey. Select a number, preferably between four and nine digits. For each number, look at the device, note the location of the number, for example number 2 is in the top left corner in the image above. To set the number, in this case 2, use your mouse to select the upper left corner on the Application’s dot pad. Continue this process for each number in your pin. Once you have entered your pin, select “Continue.” You will be prompted to re-enter your pin, the same pin, for confirmation. 
 
 
-WAIT. Did the numbers on the device just move? Yes, every time you go to enter your pin, the numbers on the pad will be in different locations. It’s a little confusing at first, but this is another effective way to stop bad actors from using your device. 
+**WAIT.** Did the numbers on the device just move? Yes, every time you go to enter your pin, the numbers on the pad will be in different locations. It’s a little confusing at first, but this is another effective way to stop bad actors from using your device. 
 
 ![Pin](https://github.com/BitHighlander/keepkey-docs/assets/47842709/8142e144-54b7-41f2-885e-76c88d597f00)
 
