@@ -1,5 +1,5 @@
 ## If KeepKey is your first introduction to cryptocurrency or hardware wallets, check out:
-## illithics COMPLETE, Step by Step, KeepKey Setup Guide
+## COMPLETE, Step by Step, KeepKey Setup Guide
 
 First off, don’t worry, you’re in safe hands. I have dabbled in cryptocurrency on a surface level for many years now, but it was only when I joined KeepKey last year that I began to dig deeper. I have spent a lot of time working with and learning from clients whose first experience setting up a wallet was with their KeepKey. Sometimes these clients have had zero experience dealing with cryptocurrency at all. It is my hope that, with access to some of the best security developers in the industry, along with my own experience with new clients, I can create the most descriptive Getting Started guide to date. The following article will be a step by step guide through the setup process, as well as explain some of the key concepts in Hardware Wallets. If successful it will provide anyone with all the information they need to set up their KeepKey and understand why they did it. 
 
@@ -76,6 +76,8 @@ We’ve come so far, let's take a breath. The tech stuff is out of the way and y
 
 
 You are about to create a wallet which is a digital tool, much like a virtual purse or wallet, used to store and manage cryptocurrencies. It holds private keys, which are secret codes required to access and control your digital assets. Your KeepKey device stores these keys allowing only you to access them. This is the security advantage over keeping your crypto online. No matter what happens, as long as you have your wallet, you will never lose access to your crypto.
+Here is a short and sweet description of wallets from Coinbase.com: https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet
+And here is a deeper dive on Crypto.com: https://crypto.com/university/crypto-wallets
 
 
 Lets get rolling. Select “Create a New Wallet”
@@ -103,6 +105,8 @@ So we have these numbers in specific locations, like on a keyboard number pad bu
 
 
 WAIT. Did the numbers on the device just move? Yes, every time you go to enter your pin, the numbers on the pad will be in different locations. It’s a little confusing at first, but this is another effective way to stop bad actors from using your device. 
+
+![Pin](https://github.com/BitHighlander/keepkey-docs/assets/47842709/8142e144-54b7-41f2-885e-76c88d597f00)
 
 
 So we know the numbers moved, and we remember the numbers we selected for our pin. Now we will find where the first number of our pin is on the device. In my demonstration we see that 2, previously up in the top left corner, has moved over one space to the right as pictured below:
@@ -132,6 +136,8 @@ Image 11
 
 
 A Recovery Sentence, or Recovery Seed Backup, comprises 12 random words and is a crucial security feature for a cryptocurrency wallet. It serves as a safeguard for your wallet's private keys, enabling you to restore your wallet in case of loss or damage to your device. 
+Here's a great explanation from Coinbase.com: https://www.coinbase.com/learn/crypto-basics/what-is-a-seed-phrase
+And another from Brave.com: https://brave.com/web3/wallet-recovery-phrase/
 
 
 YOU MUST WRITE DOWN THIS PHRASE NOW, IT WILL NOT BE SHOWN AGAIN.
