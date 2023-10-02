@@ -16,6 +16,7 @@ Let’s take  a moment to breakdown the compenets and what we are looking at wit
 **WalletConnect** is a technology that helps you securely link a decentralized application (dApp) with your KeepKey wallet. It makes it easier and safer for you to use dApps with your crypto assets.
 Here's how it works:
 
+
 **1.	dApp Interaction:** When you use a DApp on your computer, you often need to talk to your KeepKey to do things like signing transactions or accessing your crypto money.
 
 **2.	QR Code or Deep Link:** WalletConnect usually creates a QR code or a special link that you can scan or click on within the DApp.
