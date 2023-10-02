@@ -1,6 +1,6 @@
 ## The Desktop Application - User Guide ##
 
-KeepKey has developed it's own software application and not longer uses Chrome Browser Plugins, or Shapeshift.com to operate.
+KeepKey has developed it's own software application and no longer uses Chrome Browser Plugins, or needs Shapeshift.com to operate.
 Remember, you can download the Desktop Application here: https://keepkey.com/get-started
 
 Let’s take  a moment to breakdown the compenets and what we are looking at with the new Desktop Application.
