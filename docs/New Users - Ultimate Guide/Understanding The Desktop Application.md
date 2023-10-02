@@ -40,6 +40,42 @@ Next we will select what chain we want to be on, in this example we can see we a
 
 ![2 Uniswap Interface 1](https://github.com/BitHighlander/keepkey-docs/assets/47842709/e2931b64-4d59-4138-ba00-b8977207aff4)
 
+Next we will see a list of options for how to connect to Uniswap. We are using WalletConnect so we will select this option.
+
+![3 Uniswap Interface 2](https://github.com/BitHighlander/keepkey-docs/assets/47842709/fcfbf952-c62f-432d-8e4f-f148b6a9d7b0)
+
+We will see a popup on page that displays a QR code and options for which wallet we are using. 
+I’ve recently connected my KeepKey to Uniswap so that shows up first, but if this is your first time you may need to click “View All” and find KeepKey and click on it. 
+
+![4 Wallet Connect Modal](https://github.com/BitHighlander/keepkey-docs/assets/47842709/91b98777-5c19-4590-bc24-1fa4557403e5)
+
+After selecting KeepKey we will see an additional pop-up that is asking if we want to open the KeepKey Desktop. 
+Select this option and wait a moment while your KeepKey Desktop loads the request.
+
+![5 Uniswap Interface 3](https://github.com/BitHighlander/keepkey-docs/assets/47842709/984fde08-acc6-4883-a3d4-0406ba1bb736)
+
+After we have been redirected to the Desktop Application, we may need to first enter our pin. 
+Refer to previous guides for instructions on how to do that if we haven’t quite memorized that process yet. 
+
+So now we have entered our pin and we are met with what is called a “WalletConnect Session Proposal.” 
+Take some time to read what you are seeing - for example we can see that the proposal is between the KeepKey and the Uniswap Interface, we are connecting to the Ethereum network, and we can see our available Ethereum wallets on the KeepKey that we can choose between to make the connect with Uniswap with. 
+
+![6 Session Proposal](https://github.com/BitHighlander/keepkey-docs/assets/47842709/f02cad05-f426-492a-a5c9-794f0a289a47)
+
+There’s a lot of terminology and different tech in this page that we will become more familiar with overtime, 
+but because we initiated the connection with Uniswap, lets go ahead and click “Approve” for this connection.
+Once we have connected, you will notice that the WalletConnect icon on the KeepKey Desktop will display that it is now connected to the Uniswap Interface.
+
+![7 Connected](https://github.com/BitHighlander/keepkey-docs/assets/47842709/47b476c0-cc10-435b-afca-f63b79d2f028)
+
+When we return to our browser displaying https://app.uniswap.org/swap we will see that in the upper right hand corner where it used to say connect, now has our wallet’s public hexadecimal code displayed. This means that our KeepKey wallet is now connected to Uniswap and that we can use it to perform any actions on the in the Uniswap Interface.
+
+![8 Uniswap Interface 4](https://github.com/BitHighlander/keepkey-docs/assets/47842709/afe95a1f-9271-4d10-9bc9-06c316e5f43f)
+
+This has been an example of how to use WalletConnect to connect our KeepKey wallet to a popular dApp using our web browser.
+
+
+
 
 
 
