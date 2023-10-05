@@ -1,4 +1,4 @@
-# Website
+# Keepkey Docs
 
 ![](static/img/kk.gif)
 
