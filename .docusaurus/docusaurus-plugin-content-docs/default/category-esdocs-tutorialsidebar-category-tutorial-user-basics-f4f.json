@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - User Basics",
+  "slug": "/category/tutorial---user-basics",
+  "permalink": "/es/docs/category/tutorial---user-basics",
+  "navigation": {
+    "previous": {
+      "title": "FAQs",
+      "permalink": "/es/docs/intro"
+    },
+    "next": {
+      "title": "Start Here",
+      "permalink": "/es/docs/new-users/Start Here"
+    }
+  }
+}

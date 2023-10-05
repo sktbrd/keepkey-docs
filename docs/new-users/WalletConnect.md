@@ -1,4 +1,3 @@
-
 ---
 title: Wallet Connect
 ---

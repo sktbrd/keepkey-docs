@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - KeepKey SDK Integration",
+  "slug": "/category/tutorial---keepkey-sdk-integration",
+  "permalink": "/docs/category/tutorial---keepkey-sdk-integration",
+  "navigation": {
+    "previous": {
+      "title": "verifiying-firmware",
+      "permalink": "/docs/tutorial-device/verifiying-firmware"
+    },
+    "next": {
+      "title": "Create your 1st Dapp",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-device/verifiying-firmware",
+  "id": "tutorial-device/verifiying-firmware",
+  "title": "verifiying-firmware",
+  "description": "",
+  "source": "@site/docs/tutorial-device/verifiying-firmware.md",
+  "sourceDirName": "tutorial-device",
+  "slug": "/tutorial-device/verifiying-firmware",
+  "permalink": "/fr/docs/tutorial-device/verifiying-firmware",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-device/verifiying-firmware.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "using-go-keepkey",
+    "permalink": "/fr/docs/tutorial-device/using-go-keepkey"
+  },
+  "next": {
+    "title": "Tutorial - KeepKey SDK intergration",
+    "permalink": "/fr/docs/category/tutorial---keepkey-sdk-intergration"
+  }
+}

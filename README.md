@@ -1,6 +1,4 @@
-# KeepKey Docs
-
-![](https://i.ibb.co/jR8WcJM/kk.gif)
+# Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 

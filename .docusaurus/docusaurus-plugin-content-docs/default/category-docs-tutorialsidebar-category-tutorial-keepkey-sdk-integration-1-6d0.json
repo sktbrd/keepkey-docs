@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - KeepKey SDK Integration",
+  "slug": "/category/tutorial---keepkey-sdk-integration-1",
+  "permalink": "/docs/category/tutorial---keepkey-sdk-integration-1",
+  "navigation": {
+    "previous": {
+      "title": "Updating your KeepKey",
+      "permalink": "/docs/tutorial-basics/updating-keepkey"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

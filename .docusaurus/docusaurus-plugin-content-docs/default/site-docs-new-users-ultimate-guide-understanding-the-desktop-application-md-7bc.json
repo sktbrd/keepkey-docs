@@ -1,0 +1,24 @@
+{
+  "unversionedId": "New Users - Ultimate Guide/Understanding The Desktop Application",
+  "id": "New Users - Ultimate Guide/Understanding The Desktop Application",
+  "title": "Understanding The Desktop Application",
+  "description": "The Desktop Application - User Guide",
+  "source": "@site/docs/New Users - Ultimate Guide/Understanding The Desktop Application.md",
+  "sourceDirName": "New Users - Ultimate Guide",
+  "slug": "/New Users - Ultimate Guide/Understanding The Desktop Application",
+  "permalink": "/docs/New Users - Ultimate Guide/Understanding The Desktop Application",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/New Users - Ultimate Guide/Understanding The Desktop Application.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...",
+    "permalink": "/docs/New Users - Ultimate Guide/Start Here"
+  },
+  "next": {
+    "title": "WalletConnect",
+    "permalink": "/docs/New Users - Ultimate Guide/WalletConnect"
+  }
+}

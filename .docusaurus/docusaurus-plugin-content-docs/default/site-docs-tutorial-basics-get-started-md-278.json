@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-basics/get-started",
+  "id": "tutorial-basics/get-started",
+  "title": "Introducing the new KeepKey Desktop",
+  "description": "Follow the guide below to get started using your KeepKey.",
+  "source": "@site/docs/tutorial-basics/get-started.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/get-started",
+  "permalink": "/fr/docs/tutorial-basics/get-started",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/get-started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - User Basics",
+    "permalink": "/fr/docs/category/tutorial---user-basics-1"
+  },
+  "next": {
+    "title": "How to Wipe",
+    "permalink": "/fr/docs/tutorial-basics/how-to-wipe"
+  }
+}

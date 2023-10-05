@@ -1,0 +1,26 @@
+{
+  "unversionedId": "new-users/Start Here",
+  "id": "new-users/Start Here",
+  "title": "Start Here",
+  "description": "If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...",
+  "source": "@site/docs/new-users/Start Here.md",
+  "sourceDirName": "new-users",
+  "slug": "/new-users/Start Here",
+  "permalink": "/fr/docs/new-users/Start Here",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/Start Here.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Start Here"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - User Basics",
+    "permalink": "/fr/docs/category/tutorial---user-basics"
+  },
+  "next": {
+    "title": "The Desktop Application",
+    "permalink": "/fr/docs/new-users/Understanding The Desktop Application"
+  }
+}

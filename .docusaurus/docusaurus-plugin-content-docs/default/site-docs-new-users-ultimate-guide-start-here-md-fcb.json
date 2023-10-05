@@ -1,0 +1,24 @@
+{
+  "unversionedId": "New Users - Ultimate Guide/Start Here",
+  "id": "New Users - Ultimate Guide/Start Here",
+  "title": "If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...",
+  "description": "Here is the COMPLETE, Step by Step, KeepKey Setup Guide",
+  "source": "@site/docs/New Users - Ultimate Guide/Start Here.md",
+  "sourceDirName": "New Users - Ultimate Guide",
+  "slug": "/New Users - Ultimate Guide/Start Here",
+  "permalink": "/docs/New Users - Ultimate Guide/Start Here",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/New Users - Ultimate Guide/Start Here.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a Cryptocurrency DASH Application with KeepKey",
+    "permalink": "/docs/tutorial-extras/build-a-dapp"
+  },
+  "next": {
+    "title": "Understanding The Desktop Application",
+    "permalink": "/docs/New Users - Ultimate Guide/Understanding The Desktop Application"
+  }
+}

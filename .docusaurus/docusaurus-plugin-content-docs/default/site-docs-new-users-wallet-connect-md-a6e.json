@@ -1,0 +1,26 @@
+{
+  "unversionedId": "new-users/WalletConnect",
+  "id": "new-users/WalletConnect",
+  "title": "Wallet Connect",
+  "description": "",
+  "source": "@site/docs/new-users/WalletConnect.md",
+  "sourceDirName": "new-users",
+  "slug": "/new-users/WalletConnect",
+  "permalink": "/fr/docs/new-users/WalletConnect",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/WalletConnect.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Wallet Connect"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Desktop Application",
+    "permalink": "/fr/docs/new-users/Understanding The Desktop Application"
+  },
+  "next": {
+    "title": "Tutorial - User Basics",
+    "permalink": "/fr/docs/category/tutorial---user-basics-1"
+  }
+}

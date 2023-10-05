@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/create-a-page",
+  "id": "tutorial-basics/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/tutorial-basics/create-a-page.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-page",
+  "permalink": "/docs/tutorial-basics/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Introducing the new KeepKey Desktop",
+    "permalink": "/docs/tutorial-basics/get-started"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/create-a-document",
+  "id": "tutorial-basics/create-a-document",
+  "title": "Builda a Dapp Template from Scratch",
+  "description": "In this tutorial, we will create our Dapp-application from scratch. This exercise will demonstrate how we are using create-react-app and pollyfills to create the node decencies needed for pioneer-client.",
+  "source": "@site/docs/tutorial-basics/create-a-document.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/create-a-document.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Builda a Dapp Template from Scratch"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create your 1st Dapp",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "/fr/markdown-page-eb9": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "95c379da"
+    },
+    "content": "393be207"
+  },
+  "/fr/search-9cf": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "40894e56"
+    }
+  },
+  "/fr/docs-134": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "649c76ae"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/fr/docs/category/tutorial---device-in-depth-24e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f24000a5"
+  },
+  "/fr/docs/category/tutorial---keepkey-sdk-intergration-615": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9711b6c5"
+  },
+  "/fr/docs/category/tutorial---user-basics-9ea": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e3537112"
+  },
+  "/fr/docs/category/tutorial---user-basics-1-ada": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "2d77fb1e"
+  },
+  "/fr/docs/intro-70b": {
+    "__comp": "17896441",
+    "content": "c6810bfd"
+  },
+  "/fr/docs/new-users/Start Here-244": {
+    "__comp": "17896441",
+    "content": "f0c29532"
+  },
+  "/fr/docs/new-users/Understanding The Desktop Application-b43": {
+    "__comp": "17896441",
+    "content": "062e5656"
+  },
+  "/fr/docs/new-users/WalletConnect-b67": {
+    "__comp": "17896441",
+    "content": "a6e64357"
+  },
+  "/fr/docs/tutorial-basics/get-started-d90": {
+    "__comp": "17896441",
+    "content": "278d989f"
+  },
+  "/fr/docs/tutorial-basics/how-to-wipe-b3f": {
+    "__comp": "17896441",
+    "content": "2be7a0ce"
+  },
+  "/fr/docs/tutorial-basics/updating-keepkey-15f": {
+    "__comp": "17896441",
+    "content": "3aff3280"
+  },
+  "/fr/docs/tutorial-device/useing-kkcli-428": {
+    "__comp": "17896441",
+    "content": "4481891a"
+  },
+  "/fr/docs/tutorial-device/using-go-keepkey-987": {
+    "__comp": "17896441",
+    "content": "f6142c77"
+  },
+  "/fr/docs/tutorial-device/verifiying-firmware-25b": {
+    "__comp": "17896441",
+    "content": "bae9cccb"
+  },
+  "/fr/docs/tutorial-extras/build-a-dapp-3f6": {
+    "__comp": "17896441",
+    "content": "1176a619"
+  },
+  "/fr/docs/tutorial-extras/REST-api-d1a": {
+    "__comp": "17896441",
+    "content": "1b3c7dbe"
+  },
+  "/fr/-9a6": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "95c379da"
+    },
+    "config": "5e9f5e1a"
+  }
+}

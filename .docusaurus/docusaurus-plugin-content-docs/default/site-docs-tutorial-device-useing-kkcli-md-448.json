@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tutorial-device/useing-kkcli",
+  "id": "tutorial-device/useing-kkcli",
+  "title": "useing-kkcli",
+  "description": "",
+  "source": "@site/docs/tutorial-device/useing-kkcli.md",
+  "sourceDirName": "tutorial-device",
+  "slug": "/tutorial-device/useing-kkcli",
+  "permalink": "/fr/docs/tutorial-device/useing-kkcli",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-device/useing-kkcli.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Device in depth",
+    "permalink": "/fr/docs/category/tutorial---device-in-depth"
+  },
+  "next": {
+    "title": "using-go-keepkey",
+    "permalink": "/fr/docs/tutorial-device/using-go-keepkey"
+  }
+}

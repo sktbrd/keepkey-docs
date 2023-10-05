@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorial-extras/build-a-dapp",
+  "id": "tutorial-extras/build-a-dapp",
+  "title": "Creating a Cryptocurrency DASH Application with KeepKey",
+  "description": "In this tutorial, we will create an application that sends and receives the cryptocurrency DASH. This exercise will demonstrate how quickly and easily multi-chain applications can be developed on KeepKey using the KeepKey Desktop Application.",
+  "source": "@site/docs/tutorial-extras/build-a-dapp.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/build-a-dapp",
+  "permalink": "/fr/docs/tutorial-extras/build-a-dapp",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-extras/build-a-dapp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST-api",
+    "permalink": "/fr/docs/tutorial-extras/REST-api"
+  }
+}

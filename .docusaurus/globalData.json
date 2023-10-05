@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/fr/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/fr/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/fr/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "new-users/Start Here",
+              "path": "/fr/docs/new-users/Start Here",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "new-users/Understanding The Desktop Application",
+              "path": "/fr/docs/new-users/Understanding The Desktop Application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "new-users/WalletConnect",
+              "path": "/fr/docs/new-users/WalletConnect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/get-started",
+              "path": "/fr/docs/tutorial-basics/get-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/how-to-wipe",
+              "path": "/fr/docs/tutorial-basics/how-to-wipe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/updating-keepkey",
+              "path": "/fr/docs/tutorial-basics/updating-keepkey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-device/useing-kkcli",
+              "path": "/fr/docs/tutorial-device/useing-kkcli",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-device/using-go-keepkey",
+              "path": "/fr/docs/tutorial-device/using-go-keepkey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-device/verifiying-firmware",
+              "path": "/fr/docs/tutorial-device/verifiying-firmware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/build-a-dapp",
+              "path": "/fr/docs/tutorial-extras/build-a-dapp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/REST-api",
+              "path": "/fr/docs/tutorial-extras/REST-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---user-basics",
+              "path": "/fr/docs/category/tutorial---user-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---user-basics-1",
+              "path": "/fr/docs/category/tutorial---user-basics-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---device-in-depth",
+              "path": "/fr/docs/category/tutorial---device-in-depth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---keepkey-sdk-intergration",
+              "path": "/fr/docs/category/tutorial---keepkey-sdk-intergration",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/fr/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

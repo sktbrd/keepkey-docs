@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/how-to-wipe",
+  "id": "tutorial-basics/how-to-wipe",
+  "title": "How to Wipe",
+  "description": "Handling Forgotten PINs",
+  "source": "@site/docs/tutorial-basics/how-to-wipe.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/how-to-wipe",
+  "permalink": "/fr/docs/tutorial-basics/how-to-wipe",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/how-to-wipe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Wipe"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducing the new KeepKey Desktop",
+    "permalink": "/fr/docs/tutorial-basics/get-started"
+  },
+  "next": {
+    "title": "Updating your KeepKey",
+    "permalink": "/fr/docs/tutorial-basics/updating-keepkey"
+  }
+}

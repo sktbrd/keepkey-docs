@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
   "label": "Tutorial - User Basics",
-  "position": 2,
+  "position": 3,
   "link": {
     "type": "generated-index"
-=======
-  "label": "Tutorial - Basics",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
->>>>>>> bea3fb4e449b3ef28d31ed02f19412096fb6b6ef
   }
 }

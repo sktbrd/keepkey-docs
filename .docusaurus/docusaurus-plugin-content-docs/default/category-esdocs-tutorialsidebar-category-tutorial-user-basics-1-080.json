@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - User Basics",
+  "slug": "/category/tutorial---user-basics-1",
+  "permalink": "/es/docs/category/tutorial---user-basics-1",
+  "navigation": {
+    "previous": {
+      "title": "Wallet Connect",
+      "permalink": "/es/docs/new-users/WalletConnect"
+    },
+    "next": {
+      "title": "Introducing the new KeepKey Desktop",
+      "permalink": "/es/docs/tutorial-basics/get-started"
+    }
+  }
+}

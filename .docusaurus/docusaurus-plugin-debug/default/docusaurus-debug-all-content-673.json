@@ -1,0 +1,457 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs",
+          "editUrlLocalized": "https://github.com/BitHighlander/keepkey-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/web3warrior/Documents/Code/keepkey/keepkey-docs/sidebars.js",
+          "contentPath": "/Users/web3warrior/Documents/Code/keepkey/keepkey-docs/docs",
+          "contentPathLocalized": "/Users/web3warrior/Documents/Code/keepkey/keepkey-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "FAQs",
+              "description": "How To",
+              "source": "@site/docs/1-intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/1-intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Tutorial - User Basics",
+                "permalink": "/docs/category/tutorial---user-basics"
+              }
+            },
+            {
+              "unversionedId": "new-users/Start Here",
+              "id": "new-users/Start Here",
+              "title": "Start Here",
+              "description": "If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...",
+              "source": "@site/docs/new-users/Start Here.md",
+              "sourceDirName": "new-users",
+              "slug": "/new-users/Start Here",
+              "permalink": "/docs/new-users/Start Here",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/Start Here.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Start Here"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - User Basics",
+                "permalink": "/docs/category/tutorial---user-basics"
+              },
+              "next": {
+                "title": "The Desktop Application",
+                "permalink": "/docs/new-users/Understanding The Desktop Application"
+              }
+            },
+            {
+              "unversionedId": "new-users/Understanding The Desktop Application",
+              "id": "new-users/Understanding The Desktop Application",
+              "title": "The Desktop Application",
+              "description": "The Desktop Application - User Guide",
+              "source": "@site/docs/new-users/Understanding The Desktop Application.md",
+              "sourceDirName": "new-users",
+              "slug": "/new-users/Understanding The Desktop Application",
+              "permalink": "/docs/new-users/Understanding The Desktop Application",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/Understanding The Desktop Application.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "The Desktop Application"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Start Here",
+                "permalink": "/docs/new-users/Start Here"
+              },
+              "next": {
+                "title": "Wallet Connect",
+                "permalink": "/docs/new-users/WalletConnect"
+              }
+            },
+            {
+              "unversionedId": "new-users/WalletConnect",
+              "id": "new-users/WalletConnect",
+              "title": "Wallet Connect",
+              "description": "",
+              "source": "@site/docs/new-users/WalletConnect.md",
+              "sourceDirName": "new-users",
+              "slug": "/new-users/WalletConnect",
+              "permalink": "/docs/new-users/WalletConnect",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/WalletConnect.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Wallet Connect"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Desktop Application",
+                "permalink": "/docs/new-users/Understanding The Desktop Application"
+              },
+              "next": {
+                "title": "Tutorial - User Basics",
+                "permalink": "/docs/category/tutorial---user-basics-1"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/get-started",
+              "id": "tutorial-basics/get-started",
+              "title": "Introducing the new KeepKey Desktop",
+              "description": "Follow the guide below to get started using your KeepKey.",
+              "source": "@site/docs/tutorial-basics/get-started.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/get-started",
+              "permalink": "/docs/tutorial-basics/get-started",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/get-started.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - User Basics",
+                "permalink": "/docs/category/tutorial---user-basics-1"
+              },
+              "next": {
+                "title": "How to Wipe",
+                "permalink": "/docs/tutorial-basics/how-to-wipe"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/how-to-wipe",
+              "id": "tutorial-basics/how-to-wipe",
+              "title": "How to Wipe",
+              "description": "Handling Forgotten PINs",
+              "source": "@site/docs/tutorial-basics/how-to-wipe.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/how-to-wipe",
+              "permalink": "/docs/tutorial-basics/how-to-wipe",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/how-to-wipe.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How to Wipe"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introducing the new KeepKey Desktop",
+                "permalink": "/docs/tutorial-basics/get-started"
+              },
+              "next": {
+                "title": "Updating your KeepKey",
+                "permalink": "/docs/tutorial-basics/updating-keepkey"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/updating-keepkey",
+              "id": "tutorial-basics/updating-keepkey",
+              "title": "Updating your KeepKey",
+              "description": "A step by step Walkthrough",
+              "source": "@site/docs/tutorial-basics/updating-keepkey.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/updating-keepkey",
+              "permalink": "/docs/tutorial-basics/updating-keepkey",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/updating-keepkey.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Updating your KeepKey"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Wipe",
+                "permalink": "/docs/tutorial-basics/how-to-wipe"
+              },
+              "next": {
+                "title": "Tutorial - Device in depth",
+                "permalink": "/docs/category/tutorial---device-in-depth"
+              }
+            },
+            {
+              "unversionedId": "tutorial-device/useing-kkcli",
+              "id": "tutorial-device/useing-kkcli",
+              "title": "useing-kkcli",
+              "description": "",
+              "source": "@site/docs/tutorial-device/useing-kkcli.md",
+              "sourceDirName": "tutorial-device",
+              "slug": "/tutorial-device/useing-kkcli",
+              "permalink": "/docs/tutorial-device/useing-kkcli",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-device/useing-kkcli.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Device in depth",
+                "permalink": "/docs/category/tutorial---device-in-depth"
+              },
+              "next": {
+                "title": "using-go-keepkey",
+                "permalink": "/docs/tutorial-device/using-go-keepkey"
+              }
+            },
+            {
+              "unversionedId": "tutorial-device/using-go-keepkey",
+              "id": "tutorial-device/using-go-keepkey",
+              "title": "using-go-keepkey",
+              "description": "",
+              "source": "@site/docs/tutorial-device/using-go-keepkey.md",
+              "sourceDirName": "tutorial-device",
+              "slug": "/tutorial-device/using-go-keepkey",
+              "permalink": "/docs/tutorial-device/using-go-keepkey",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-device/using-go-keepkey.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "useing-kkcli",
+                "permalink": "/docs/tutorial-device/useing-kkcli"
+              },
+              "next": {
+                "title": "verifiying-firmware",
+                "permalink": "/docs/tutorial-device/verifiying-firmware"
+              }
+            },
+            {
+              "unversionedId": "tutorial-device/verifiying-firmware",
+              "id": "tutorial-device/verifiying-firmware",
+              "title": "verifiying-firmware",
+              "description": "",
+              "source": "@site/docs/tutorial-device/verifiying-firmware.md",
+              "sourceDirName": "tutorial-device",
+              "slug": "/tutorial-device/verifiying-firmware",
+              "permalink": "/docs/tutorial-device/verifiying-firmware",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-device/verifiying-firmware.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "using-go-keepkey",
+                "permalink": "/docs/tutorial-device/using-go-keepkey"
+              },
+              "next": {
+                "title": "Tutorial - KeepKey SDK intergration",
+                "permalink": "/docs/category/tutorial---keepkey-sdk-intergration"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/build-a-dapp",
+              "id": "tutorial-extras/build-a-dapp",
+              "title": "Creating a Cryptocurrency DASH Application with KeepKey",
+              "description": "In this tutorial, we will create an application that sends and receives the cryptocurrency DASH. This exercise will demonstrate how quickly and easily multi-chain applications can be developed on KeepKey using the KeepKey Desktop Application.",
+              "source": "@site/docs/tutorial-extras/build-a-dapp.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/build-a-dapp",
+              "permalink": "/docs/tutorial-extras/build-a-dapp",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-extras/build-a-dapp.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "REST-api",
+                "permalink": "/docs/tutorial-extras/REST-api"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/REST-api",
+              "id": "tutorial-extras/REST-api",
+              "title": "REST-api",
+              "description": "TL;DR KeepKey SDK",
+              "source": "@site/docs/tutorial-extras/REST-api.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/REST-api",
+              "permalink": "/docs/tutorial-extras/REST-api",
+              "draft": false,
+              "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-extras/REST-api.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - KeepKey SDK intergration",
+                "permalink": "/docs/category/tutorial---keepkey-sdk-intergration"
+              },
+              "next": {
+                "title": "Creating a Cryptocurrency DASH Application with KeepKey",
+                "permalink": "/docs/tutorial-extras/build-a-dapp"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - User Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "new-users/Start Here"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "new-users/Understanding The Desktop Application"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "new-users/WalletConnect"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---user-basics",
+                  "permalink": "/docs/category/tutorial---user-basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - User Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/get-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/how-to-wipe"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/updating-keepkey"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---user-basics-1",
+                  "permalink": "/docs/category/tutorial---user-basics-1"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Device in depth",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-device/useing-kkcli"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-device/using-go-keepkey"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-device/verifiying-firmware"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---device-in-depth",
+                  "permalink": "/docs/category/tutorial---device-in-depth"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - KeepKey SDK intergration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/REST-api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/build-a-dapp"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---keepkey-sdk-intergration",
+                  "permalink": "/docs/category/tutorial---keepkey-sdk-intergration"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "@easyops-cn/docusaurus-search-local": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

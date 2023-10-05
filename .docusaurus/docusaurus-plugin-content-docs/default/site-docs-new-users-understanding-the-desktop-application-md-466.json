@@ -1,0 +1,26 @@
+{
+  "unversionedId": "new-users/understanding-the-desktop-application",
+  "id": "new-users/understanding-the-desktop-application",
+  "title": "Understanding the Desktop App",
+  "description": "The Desktop Application - User Guide",
+  "source": "@site/docs/new-users/understanding-the-desktop-application.md",
+  "sourceDirName": "new-users",
+  "slug": "/new-users/understanding-the-desktop-application",
+  "permalink": "/docs/new-users/understanding-the-desktop-application",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/understanding-the-desktop-application.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Understanding the Desktop App"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start Here",
+    "permalink": "/docs/new-users/start-here"
+  },
+  "next": {
+    "title": "Tutorial - Device in depth",
+    "permalink": "/docs/category/tutorial---device-in-depth"
+  }
+}

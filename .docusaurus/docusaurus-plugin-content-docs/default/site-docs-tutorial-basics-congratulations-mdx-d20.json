@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "Create your 1st Dapp",
+  "description": "Creating a DAPP for the KeepKey Desktop",
+  "source": "@site/docs/tutorial-basics/congratulations.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/congratulations.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Create your 1st Dapp"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - KeepKey SDK Integration",
+    "permalink": "/docs/category/tutorial---keepkey-sdk-integration"
+  },
+  "next": {
+    "title": "Builda a Dapp Template from Scratch",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

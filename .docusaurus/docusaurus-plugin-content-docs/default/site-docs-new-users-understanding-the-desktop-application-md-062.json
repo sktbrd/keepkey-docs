@@ -1,0 +1,26 @@
+{
+  "unversionedId": "new-users/Understanding The Desktop Application",
+  "id": "new-users/Understanding The Desktop Application",
+  "title": "The Desktop Application",
+  "description": "The Desktop Application - User Guide",
+  "source": "@site/docs/new-users/Understanding The Desktop Application.md",
+  "sourceDirName": "new-users",
+  "slug": "/new-users/Understanding The Desktop Application",
+  "permalink": "/fr/docs/new-users/Understanding The Desktop Application",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/new-users/Understanding The Desktop Application.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Desktop Application"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start Here",
+    "permalink": "/fr/docs/new-users/Start Here"
+  },
+  "next": {
+    "title": "Wallet Connect",
+    "permalink": "/fr/docs/new-users/WalletConnect"
+  }
+}

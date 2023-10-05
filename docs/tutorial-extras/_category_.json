@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "label": "Tutorial - KeepKey SDK intergration",
-  "position": 4,
-=======
-  "label": "Tutorial - Device in depth",
   "position": 3,
->>>>>>> bea3fb4e449b3ef28d31ed02f19412096fb6b6ef
   "link": {
     "type": "generated-index"
   }

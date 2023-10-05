@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Device in depth",
+  "slug": "/category/tutorial---device-in-depth",
+  "permalink": "/pt-br/docs/category/tutorial---device-in-depth",
+  "navigation": {
+    "previous": {
+      "title": "Updating your KeepKey",
+      "permalink": "/pt-br/docs/tutorial-basics/updating-keepkey"
+    },
+    "next": {
+      "title": "useing-kkcli",
+      "permalink": "/pt-br/docs/tutorial-device/useing-kkcli"
+    }
+  }
+}

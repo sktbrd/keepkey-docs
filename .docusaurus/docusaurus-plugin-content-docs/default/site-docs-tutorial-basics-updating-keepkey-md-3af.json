@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/updating-keepkey",
+  "id": "tutorial-basics/updating-keepkey",
+  "title": "Updating your KeepKey",
+  "description": "A step by step Walkthrough",
+  "source": "@site/docs/tutorial-basics/updating-keepkey.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/updating-keepkey",
+  "permalink": "/fr/docs/tutorial-basics/updating-keepkey",
+  "draft": false,
+  "editUrl": "https://github.com/BitHighlander/keepkey-docs/tree/main/docs/tutorial-basics/updating-keepkey.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Updating your KeepKey"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Wipe",
+    "permalink": "/fr/docs/tutorial-basics/how-to-wipe"
+  },
+  "next": {
+    "title": "Tutorial - Device in depth",
+    "permalink": "/fr/docs/category/tutorial---device-in-depth"
+  }
+}
