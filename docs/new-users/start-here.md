@@ -1,4 +1,8 @@
-# If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...
+---
+title: Start Here
+---
+
+## If KeepKey is your first introduction to Cryptocurrency or Hardware Wallets...
 ## Here is the COMPLETE, Step by Step, KeepKey Setup Guide
 
 First off, if you are new to wallets or crypto, don’t worry, you’re in the right place. I have spent a lot of time working with and learning from folks whose first experience setting up a wallet was with their KeepKey. Sometimes these people have had zero experience dealing with cryptocurrency at all. It is my hope that, with my access to some of the best security developers in the industry, along with my own experience with new clients, I can create the most descriptive Getting Started guide to date. The following article will be a step by step guide through the setup process, as well as explain some of the key concepts in Hardware Wallets. If successful it will provide anyone with all the information they need to set up their KeepKey and understand why they did it. 

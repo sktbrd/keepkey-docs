@@ -1,3 +1,7 @@
+---
+title: Understanding the Desktop App
+---
+
 ## The Desktop Application - User Guide ##
 
 KeepKey has developed it's own software application and no longer uses Chrome Browser Plugins, or needs Shapeshift.com to operate.
@@ -10,8 +14,8 @@ Let’s take  a moment to breakdown the compenets and what we are looking at wit
 
 **1. Wallet Connect (Top Right Corner)**
 
-<img src="https://github.com/BitHighlander/keepkey-docs/assets/47842709/dad2a0b8-17cd-4540-9920-94d5acbf5227" width="300">
 
+![](https://github.com/BitHighlander/keepkey-docs/assets/47842709/dad2a0b8-17cd-4540-9920-94d5acbf5227)
 
 **WalletConnect** is a technology that helps you securely link a decentralized application (dApp) with your KeepKey wallet. It makes it easier and safer for you to use dApps with your crypto assets.
 Here's how it works:
